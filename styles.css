@@ -18,6 +18,7 @@ h1 {
 
 article {
   font-family: 'Indie Flower', cursive;
+  color: rgba(0, 0, 0, 0.6);
 }
 
   .wrapper {
@@ -100,6 +101,10 @@ article {
     border: 2px solid white;
     padding: 4px;
     font-family: 'Indie Flower', cursive;
+  }
+  .son2 ul li:first-child {
+    color: black;
+    background-color: white;
   }
 
   .son2 img {
